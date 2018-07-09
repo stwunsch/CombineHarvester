@@ -531,4 +531,5 @@ void AddSMRun2Systematics(CombineHarvester &cb, bool jetfakes, bool embedding) {
                     ({"tt"}, {1}, 1.06)
                     ({"tt"}, {2}, 1.04));
 }
+
 } // namespace ch
